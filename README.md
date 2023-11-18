@@ -12,10 +12,11 @@ MODEL-TABLE
 PRODUCT-DESCRIPTION-TABLE
 ```
 
-To set everything up, create a DEMO account and run the IMPORT.PRODUCTS program.
+To set everything up, create a DEMO account and run the import program.
 
 ```
-RUN BP IMPORT.PRODUCTS
+BASIC BP IMPORT.ADVENTURE.WORKS
+RUN BP IMPORT.ADVENTURE.WORKS
 ```
 
 You will need to update the PATH variable in the program to point to the source directory of the csv files.
