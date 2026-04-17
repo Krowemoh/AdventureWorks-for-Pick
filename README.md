@@ -9,7 +9,6 @@ ORDER-FILE
 
 CATEGORY-TABLE
 MODEL-TABLE
-PRODUCT-DESCRIPTION-TABLE
 ```
 
 To set everything up, create a DEMO account and run the import program.
